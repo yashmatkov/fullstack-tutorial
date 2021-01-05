@@ -9,7 +9,7 @@ An example of an external service is as follows: (https://openexchangerates.org/
 ## Technical Overview
 
 ### Getting Started
-For anything related to contributing code, submitting issues, etc.  Please see the [Contributing Guidelines](docs/CONTRIBUTING.md).
+For anything related to contributing code, submitting issues, etc.  Please see the [Contributing Guidelines](./docs/CONTRIBUTING.md).
 
 ### Development
 
