@@ -1,5 +1,5 @@
 
-### Unit Testing
+# Unit Testing
 Unit tests are used to ensure proper operation of functional areas within the code.  The unit tests shouldn't rely on
 any environment variables.
 
@@ -7,7 +7,7 @@ any environment variables.
 make test
 ```
 
-### Localized Integration Testing
+# Localized Integration Testing
 Localized integration testing is run to verify the depth and breadth of the application.
 
 ```
@@ -31,7 +31,7 @@ And add its value on the variable below, inside the local.env file:
 FIXERIO_API_KEY=<exchange.fixerio_api_key value>
 ```
 
-### Regression Testing
+# Regression Testing
 Regression testing is configured to be applied against our development environment.
 
 ```

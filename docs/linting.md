@@ -1,4 +1,4 @@
-## Linting
+# Linting
 
 Linting helps conform the coding to standards the team has adopted. We're currently trying the following linting tools:
 
