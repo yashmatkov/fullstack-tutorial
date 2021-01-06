@@ -10,6 +10,10 @@ Common Business Services utilizes common components itself. Please see the follo
 * [Common API Specification](https://docs.google.com/document/d/19h0BUcosjs_is3BxyJItPjK9Sutgr_da9VkpoUTkCXA/edit)
 * [Common Technology](https://docs.google.com/document/d/10XQdnK3puSZmV8ZeGMFS6v0CayWA9ButrDK0acUHEJc/edit)
 
+## Access Needed
+
+You will need to submit access request for [Docker Trusted Registry](https://dtr.wexapps.com/)
+
 ## Design Decisions
 Each application has its own design documents stored within the following directory:
 

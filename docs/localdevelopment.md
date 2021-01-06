@@ -48,3 +48,7 @@ This will terminate any running containers related to the project, build new con
 loads some sample data to work with.  You can then make calls against the service using the client script.
 
 ---
+
+## GraphQL Playground
+
+This should allow you to connect to localhost (http:)
