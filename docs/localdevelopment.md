@@ -1,6 +1,6 @@
 # Local Development
 
-To start working with this project and launch a fully functional version of the service, please see [the following documentation]().
+To start working with this project and launch a fully functional version of the service, please do the following:
 
 Clone the repository:
 
