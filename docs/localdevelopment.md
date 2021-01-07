@@ -51,4 +51,4 @@ loads some sample data to work with.  You can then make calls against the servic
 
 ## GraphQL Playground
 
-This should allow you to connect to localhost (http:)
+This should allow you to connect to localhost (http://localhost:8000)
